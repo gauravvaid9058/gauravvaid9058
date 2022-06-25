@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gauravvaid9058
-- 👀 I’m interested in web development 
+- 👀 I’m interested in programming. 
 - 🌱 I’m currently learning web development 
 
 
