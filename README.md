@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gauravvaid9058
-- 👀 I’m interested in programming. 
-- 🌱 I’m currently learning web development 
+- 👋 Hi, I’m Gaurav vaid.
+- 👀 I’m interested in Web development. 
+- 🌱 I’m currently learning react js. 
 
 
 <!---
